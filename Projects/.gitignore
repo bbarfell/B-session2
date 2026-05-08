@@ -1,0 +1,2 @@
+#You must have this file always in gitignore 
+.env
